@@ -1,6 +1,6 @@
 # GS-Solucoes-em-Energias-Renovaveis-e-Sustentaveis
 
-# Trabalho feito por Ângelo Malta Reina - RM 570769 & Gustavo Mendonça Duarte - RM 570561
+## Trabalho feito por Ângelo Malta Reina - RM 570769 & Gustavo Mendonça Duarte - RM 570561
 
 # 🚀 Mission Control AI
 
